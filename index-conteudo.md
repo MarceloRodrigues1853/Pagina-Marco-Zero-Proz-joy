@@ -1,4 +1,4 @@
-[Ir para Pontos turisticos](pontos_turisticos.md)
+[Ir para Pontos turisticos](pontos_turisticos-conteúdo.md)
 
 # Marco Zero Recife: qual é a história do ponto turístico?
 
