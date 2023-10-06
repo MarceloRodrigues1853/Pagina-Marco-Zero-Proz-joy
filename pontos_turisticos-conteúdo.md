@@ -1,3 +1,5 @@
+[Ir para Pontos turisticos.html](pontos_turisticos.html)
+
 ![File:Museu do Frevo.jpg](https://upload.wikimedia.org/wikipedia/commons/9/91/Museu_do_Frevo.jpg?20140210024721)
 
 O Paço do Frevo é um espaço cultural dedicado à difusão, pesquisa, lazer e formação nas áreas da dança e música do frevo localizado na cidade do Recife, capital de Pernambuco, Brasil. Surgiu através de uma parceria entre a Prefeitura do Recife, a Fundação Roberto Marinho, o IPHAN e o Governo Federal. [Wikipédia](https://pt.wikipedia.org/wiki/Paço_do_Frevo)
