@@ -1,34 +1,74 @@
+/* Reset de estilos */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Maven Pro', sans-serif;
+}
+
+/* Estilos para o cabeçalho */
 header {
-    font-family: 'Lucida Sans', Verdana, sans-serif;
-  }
-  
-  header, footer {
-    background: #58378C;
-    color: white;
-    padding: 16px;
-  }
-  
-  #logo-header {
-    font-size: 32px;
-  }
-  
-  a {
-    text-decoration: none;
-    color: white;
-  }
-  
-  main {
-    background-color: #EF7D19;
-    padding: 16px;
-    color: white;
-    font-family: 'Lucida Sans', Verdana, sans-serif;
-  }
-  
-  img {
-    margin: 32px;
-  }
-  
-  .rede-social {
-    font-family: 'Segoe UI', Verdana, sans-serif;
-    margin: 8px;
-  }
+  background: #58378C;
+  color: whitesmoke;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px;
+  margin-bottom: 12px;
+}
+
+/* Estilos para a barra de navegação */
+nav {
+  background-color: orange;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+}
+
+nav ul li {
+  margin: 0 16px;
+}
+
+/* Estilos para o conteúdo principal */
+main {
+  background-color: #EF7D19;
+  padding: 16px;
+  color: white;
+  font-family: 'Lucida Sans', Verdana, sans-serif;
+}
+
+/* Estilos para as imagens dentro das seções */
+main img {
+  max-width: 300%;
+  max-height: 300px;
+  width: auto;
+  margin: 0 auto;
+  display: block;
+  margin-bottom: 16px;
+}
+
+/* Estilos para os títulos das seções */
+main h2 {
+  background: #58378C;
+  padding: 8px;
+  color: white;
+}
+
+/* Estilos para o rodapé */
+footer {
+  background: #58378C;
+  color: white;
+  padding: 16px;
+}
+
+/* Estilos para links */
+a {
+  text-decoration: none;
+  color: #0066cc;
+}
+
+a:hover {
+  text-decoration: underline;
+}
